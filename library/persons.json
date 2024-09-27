@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "base_data": {
+      "alias": "PersonalBankingCustomer",
+      "label": "Personal Banking Customer",
+      "description": "A customer of the bank :)",
+      "uuid": "c47cb088-834c-4786-b7bc-24c337f235cf",
+      "notes": ""
+    },
+    "person_type": "Person"
+  }
+]

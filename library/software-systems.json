@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "base_data": {
+      "alias": "InternetBankingSystem",
+      "label": "Internet Banking System",
+      "description": "Allows customers to view information about their bank accounts, and make payments.",
+      "uuid": "5c3112ec-1f2a-4187-ae8b-5f29f8847d07",
+      "notes": ""
+    },
+    "system_type": "System"
+  }
+]
